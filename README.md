@@ -68,5 +68,3 @@ The project uses four simulated enterprise-grade datasets:
 | CSV | Data exchange format |
 
 ---
-
-## 🔄 Data Pipeline
